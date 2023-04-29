@@ -1,0 +1,52 @@
+[
+    {
+      "id": 1,
+      "title": "Getting Started with Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-01",
+      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam vel aliquet mauris. Integer eget lorem id dolor congue ultrices. Duis at sem nunc. Sed condimentum enim sit amet ultricies auctor. Etiam ut sodales augue."
+    },
+    {
+      "id": 2,
+      "title": "Building Beautiful UIs with Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-02",
+      "text": "Duis consectetur ullamcorper faucibus. Fusce in turpis sed velit suscipit tristique vel eu dolor. Nullam id risus nec purus aliquam placerat. Integer euismod nunc sit amet libero lobortis imperdiet."
+    },
+    {
+      "id": 3,
+      "title": "Managing State in Flutter Apps",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-03",
+      "text": "Morbi vestibulum, neque non dictum consequat, lectus ipsum vehicula lectus, vitae placerat nibh quam a est. Pellentesque id urna mi. Donec dictum magna vitae dolor lobortis posuere. Sed sagittis, purus sed vestibulum ullamcorper, quam elit lobortis diam, vel congue urna turpis sed elit."
+    },
+    {
+      "id": 4,
+      "title": "Working with Lists and Grids in Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-04",
+      "text": "Nam convallis ullamcorper dolor, sed semper orci imperdiet vel. In hac habitasse platea dictumst. Suspendisse potenti. Nunc lobortis, nibh non molestie lobortis, arcu ipsum tincidunt justo, vitae feugiat libero mauris sed risus."
+    },
+    {
+      "id": 5,
+      "title": "Using Animations in Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-05",
+      "text": "Nulla eu metus et ex vehicula pretium. Maecenas blandit bibendum metus at scelerisque. Etiam molestie velit ut ante vestibulum laoreet. Duis eget urna ut quam bibendum varius."
+    },
+    {
+      "id": 6,
+      "title": "Building Responsive Layouts with Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-06",
+      "text": "Donec eget velit ut nulla pretium aliquet. Nulla rhoncus urna et mauris maximus, quis lacinia enim suscipit. Duis pharetra enim id neque elementum, at lobortis nunc consequat. Morbi eget lobortis ante."
+    },
+    {
+      "id": 7,
+      "title": "Creating Custom Widgets in Flutter",
+      "image": "https://via.placeholder.com/150",
+      "date": "2022-01-07",
+      "text": "Pellentesque luctus libero sed justo sagittis, eusdsbdhbhbdbdbasd"
+    }
+]
+  
